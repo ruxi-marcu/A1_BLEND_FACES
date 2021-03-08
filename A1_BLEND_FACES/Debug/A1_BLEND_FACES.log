@@ -1,0 +1,92 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_widgets.cpp
+  FilesInDir.cpp
+  LoadObj.cpp
+  main.cpp
+d:\animation\a1_blend_faces\a1_blend_faces\a1_blend_faces\a1_blend_faces\main.cpp(95): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\animation\a1_blend_faces\a1_blend_faces\a1_blend_faces\a1_blend_faces\main.cpp(107): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\animation\a1_blend_faces\a1_blend_faces\a1_blend_faces\a1_blend_faces\main.cpp(191): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\animation\a1_blend_faces\a1_blend_faces\a1_blend_faces\a1_blend_faces\main.cpp(192): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\animation\a1_blend_faces\a1_blend_faces\a1_blend_faces\a1_blend_faces\main.cpp(284): warning C4101: 'normbuffer': unreferenced local variable
+d:\animation\a1_blend_faces\a1_blend_faces\a1_blend_faces\a1_blend_faces\main.cpp(283): warning C4101: 'vertexbuffer': unreferenced local variable
+d:\animation\a1_blend_faces\a1_blend_faces\a1_blend_faces\a1_blend_faces\main.cpp(680): warning C4018: '<': signed/unsigned mismatch
+d:\animation\a1_blend_faces\a1_blend_faces\a1_blend_faces\a1_blend_faces\main.cpp(682): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\animation\a1_blend_faces\a1_blend_faces\a1_blend_faces\a1_blend_faces\main.cpp(683): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\animation\a1_blend_faces\a1_blend_faces\a1_blend_faces\a1_blend_faces\main.cpp(684): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\animation\a1_blend_faces\a1_blend_faces\a1_blend_faces\a1_blend_faces\main.cpp(689): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\animation\a1_blend_faces\a1_blend_faces\a1_blend_faces\a1_blend_faces\main.cpp(690): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\animation\a1_blend_faces\a1_blend_faces\a1_blend_faces\a1_blend_faces\main.cpp(691): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\animation\a1_blend_faces\a1_blend_faces\a1_blend_faces\a1_blend_faces\main.cpp(696): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\animation\a1_blend_faces\a1_blend_faces\a1_blend_faces\a1_blend_faces\main.cpp(697): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\animation\a1_blend_faces\a1_blend_faces\a1_blend_faces\a1_blend_faces\main.cpp(698): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\animation\a1_blend_faces\a1_blend_faces\a1_blend_faces\a1_blend_faces\main.cpp(703): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\animation\a1_blend_faces\a1_blend_faces\a1_blend_faces\a1_blend_faces\main.cpp(704): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\animation\a1_blend_faces\a1_blend_faces\a1_blend_faces\a1_blend_faces\main.cpp(705): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\animation\a1_blend_faces\a1_blend_faces\a1_blend_faces\a1_blend_faces\main.cpp(730): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+d:\animation\a1_blend_faces\a1_blend_faces\a1_blend_faces\a1_blend_faces\main.cpp(733): warning C4018: '<': signed/unsigned mismatch
+d:\animation\a1_blend_faces\a1_blend_faces\a1_blend_faces\a1_blend_faces\main.cpp(735): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+d:\animation\a1_blend_faces\a1_blend_faces\a1_blend_faces\a1_blend_faces\main.cpp(749): warning C4018: '<': signed/unsigned mismatch
+  vboindexer.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  A1_BLEND_FACES.vcxproj -> D:\ANIMATION\A1_BLEND_FACES\A1_BLEND_FACES\A1_BLEND_FACES\Debug\A1_BLEND_FACES.exe
